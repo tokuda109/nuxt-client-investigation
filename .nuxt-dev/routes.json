@@ -1,0 +1,9 @@
+[
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/PATH/TO/nuxt-client-investigation/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_60d0deaa"
+  }
+]
